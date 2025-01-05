@@ -5,7 +5,7 @@
 int main() {
     int escolha = 0;
 
-    while (escolha != 5) {  // Ajustado para refletir a nova opção de sair
+    while (escolha != 5) {  
         exibir_menu_animado();
 
         printf("Digite a sua escolha: ");
